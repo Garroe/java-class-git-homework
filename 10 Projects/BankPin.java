@@ -25,7 +25,7 @@ public class BankPin {
 			System.out.println("INCORRECT PIN. TRY AGAIN.");
 		} else {
 			System.out.println("PIN ACCEPTED. YOU NOW HAVE ACCESS TO YOUR ACCOUNT.");
-			System.out.println("PIN ACCEPTED. YOU NOW HAVE ACCESS TO YOUR ACCOUNT.");
+			System.out.println("PINNNNNNNNN ACCEPTED. YOU NOW HAVE ACCESS TO YOUR ACCOUNT.");
 		}
 
 	}
