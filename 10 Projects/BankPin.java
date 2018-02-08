@@ -25,10 +25,15 @@ public class BankPin {
 			System.out.println("INCORRECT PIN. TRY AGAIN.");
 		} else {
 			System.out.println("PIN ACCEPTED. YOU NOW HAVE ACCESS TO YOUR ACCOUNT.");
+			System.out.println("PIN ACCEPTED. YOU NOW HAVE ACCESS TO YOUR ACCOUNT.");
 		}
 
 	}
 }
+
+
+// "Hey, what had happened? "
+
 
 ///// "Hey I just added this comment in this folder. Can you see it from Github cloud?"
 
